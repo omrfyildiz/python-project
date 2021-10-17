@@ -21,4 +21,4 @@ In this Python file, there are some basic Python codes and a game in which inclu
 
 
 
-### Sources: FreeCodeCamp, Veri Okulu, PythonBasics, StackOverFlow
+### Sources: FreeCodeCamp, Veri Bilimi Okulu, PythonBasics, StackOverFlow
