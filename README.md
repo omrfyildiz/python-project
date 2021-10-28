@@ -16,6 +16,10 @@ In this notebook, the main purpose is to be able to analyze some e-commerce numb
 
 Please download the csv file from [Kaggle](https://www.kaggle.com/carrie1/ecommerce-data) to implement the Python codes in your project. Put your local data location in the pd.read_csv('#') command.
 
+## Bar Chart Notebook
+
+Throughout the notebook, you are going to see some basic bar chart exmaples with Matplotlib, Pandas, and NumPy
+
 ## Play file
 In this Python file, there are some basic Python codes and a game in which includes conditionals.
 
